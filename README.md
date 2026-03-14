@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I,m k.y.
+
+I am a developer who aims to engineer all things, including software and hardware.
+
+全ての物事をエンジニアリングするべく、日々ハードやソフト、時間や思想などをいじくりまわしています。
+
 
 <!--
 **keeeewai-kanikani/keeeewai-kanikani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
