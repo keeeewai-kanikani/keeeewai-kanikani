@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=keeeewai-kanikani&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
+
+## sync the time, think paradigm, meens a life
+
+My time engineering solution solves the 'Why did I do this?' problem by freezing and unfreezing the thought process.↓↓↓↓↓↓
